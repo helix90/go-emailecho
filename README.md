@@ -1,6 +1,6 @@
-# go-example
+# go-emailecho
 
-A minimal Go application for [fly.io Getting Started](https://fly.io/docs/getting-started/golang/) documentation and tutorials.
+A minimal Go application to echo emails sent to a domain.  Built on top of fly.io examples.
 
 To get started:
 
